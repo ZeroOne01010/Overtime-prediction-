@@ -1,5 +1,5 @@
 # Overtime-prediction-
-Program to calculate any over time 
+#Program to calculate any over time 
 
 promptHours = 'Please enter your hours you have worked '
 try:
